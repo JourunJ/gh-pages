@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>BUIMS</title>
+    <link href="https://jourunj.github.io/gh-pages/feed.xml" rel="self" />
+    <link href="https://jourunj.github.io/gh-pages" />
+    <updated>2025-07-09T01:59:33+09:00</updated>
+    <author>
+        <name>42</name>
+    </author>
+    <id>https://jourunj.github.io/gh-pages</id>
+
+    <entry>
+        <title>您好</title>
+        <author>
+            <name>42</name>
+        </author>
+        <link href="https://jourunj.github.io/gh-pages/nin-hao.html"/>
+        <id>https://jourunj.github.io/gh-pages/nin-hao.html</id>
+
+        <updated>2025-07-09T01:59:33+09:00</updated>
+            <summary>
+                <![CDATA[
+                    我很好
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>我很好</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
