@@ -3,12 +3,52 @@
     <title>BUIMS</title>
     <link href="https://jourunj.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://jourunj.github.io/gh-pages" />
-    <updated>2025-07-09T01:59:33+09:00</updated>
+    <updated>2025-07-09T02:21:12+09:00</updated>
     <author>
         <name>42</name>
     </author>
     <id>https://jourunj.github.io/gh-pages</id>
 
+    <entry>
+        <title>我想尝试</title>
+        <author>
+            <name>42</name>
+        </author>
+        <link href="https://jourunj.github.io/gh-pages/wo-xiang-chang-shi.html"/>
+        <id>https://jourunj.github.io/gh-pages/wo-xiang-chang-shi.html</id>
+
+        <updated>2025-07-09T02:21:12+09:00</updated>
+            <summary>
+                <![CDATA[
+                    已经2点21
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>已经2点21</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>第二篇文章</title>
+        <author>
+            <name>42</name>
+        </author>
+        <link href="https://jourunj.github.io/gh-pages/di-er-pian-wen-zhang.html"/>
+        <id>https://jourunj.github.io/gh-pages/di-er-pian-wen-zhang.html</id>
+
+        <updated>2025-07-09T02:20:58+09:00</updated>
+            <summary>
+                <![CDATA[
+                    看得到吗
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>看得到吗</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>您好</title>
         <author>
