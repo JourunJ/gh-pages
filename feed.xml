@@ -3,7 +3,7 @@
     <title>BUIMS</title>
     <link href="https://jourunj.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://jourunj.github.io/gh-pages" />
-    <updated>2025-07-11T00:58:38+09:00</updated>
+    <updated>2025-07-11T02:03:36+09:00</updated>
     <author>
         <name>42</name>
     </author>
@@ -106,10 +106,14 @@
             <category term="杂谈"/>
 
         <updated>2025-07-09T01:59:33+09:00</updated>
-            <summary></summary>
+            <summary>
+                <![CDATA[
+                    【慎点】【音量注意】
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
-                <p class="align-center"> </p>
+                <h1 class="align-center"><strong>【慎点】【音量注意】</strong></h1>
 <div class="post__iframe"><iframe loading="lazy" width="640" height="360" src="https://player.bilibili.com/player.html?bvid=BV1iB4y1p7mb&amp;high_quality=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
